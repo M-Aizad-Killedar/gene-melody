@@ -1,5 +1,5 @@
 streamlit
 mido
-pygame
+
 requests
 Pillow
